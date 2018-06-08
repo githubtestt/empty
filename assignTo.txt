@@ -4,7 +4,7 @@ H5 :
 PC : 
 后台：
 IOS: 
-Android:
+Android: fc
 性能压测: yw
 
 时间：6月6号~6月8号
